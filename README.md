@@ -13,7 +13,7 @@ Category 4: Provider-Level and Departmental Trends
 
 The dataset was cleaned, aggregated, and analyzed in Power Query before being visualized in Power BI.
 
-[📊 Power BI Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=da032b39-3ae8-44dc-82e1-40e780839ad4&autoAuth=true&ctid=66812d80-c580-4a79-a047-d8e93519fce3)
+[📊 Power BI Dashboard Link]([https://app.powerbi.com/reportEmbed?reportId=da032b39-3ae8-44dc-82e1-40e780839ad4&autoAuth=true&ctid=66812d80-c580-4a79-a047-d8e93519fce3](https://app.powerbi.com/view?r=eyJrIjoiM2RlN2U5NjctOTM3Yi00NDZhLThlNDMtMmRkNGM1N2Y5ZTY3IiwidCI6IjM0YzAxYWRhLTc5MDItNGQ2My04MjgyLThkYzRiZjhmNTUxZCJ9))
 
 # Dataset Description
 The data model comprises three tables capturing NHS A&E performance across time, geography, providers, and metrics, totaling 151,270 records
